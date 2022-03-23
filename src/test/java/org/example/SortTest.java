@@ -4,7 +4,7 @@ import junit.framework.TestCase;
 
 import java.util.Arrays;
 
-public class SortTest extends TestCase {
+public class  SortTest extends TestCase {
 
     public void testSortTwo() {
         int[] unorderedArray = new int[] {82, 19};
